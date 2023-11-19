@@ -9,22 +9,18 @@
 
 ## Desafio e Solução 2020-2
 
-<b>Desafio:</b> Criar um site onde o cliente consiga efetuar a venda de conteúdos acadêmicos.<br>
-Como por exemplo: livros,videoaulas e pdfs voltados para a área de Tecnologia.
+<b>Desafio:</b> .<br>
 
-<b>Como solução:</b> Criamos uma plataforma chamada Elite Academy.<br>
-Através deste site os clientes podem se cadastrar e fazer compras dos materiais didáticos.<br>
-Desenvolvemos uma tela onde é possível a visualização de uma lista com conteúdos e vantagens disponíveis na compra de determinados materiais de seu interesse.<br>
-Criamos uma funcionalidade que permite ao usuário adicionar os conteúdos
-escolhidos em um carrinho de compras, consultar saldos de créditos disponíveis na plataforma, cadastrar-se na plataforma e finalizar suas compras.<br> 
-Estes são alguns exemplos do funcionamento da plataforma.   
+
+<b>Como solução:</b> .<br>
+ 
 <br>
 
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico foi a <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>.<br>
 Como representante da empresa o Prof.Antonio Egydio.
 
-[Visualizar GitHub do Projeto](https://github.com/Ritas2022/ProjetoIntegrador01)
+[Visualizar GitHub do Projeto]()
 
 ## Tecnologias Utilizadas
 
@@ -35,9 +31,7 @@ Como representante da empresa o Prof.Antonio Egydio.
 
 ## Contribuições Pessoais
 
-- Referente a utilização do WordPress, auxiliei na parte de gerenciamento dos plugins.<br>
-- Contribui no desenvolvimento dos conteúdos do material disponibilizado no site.<br>
-- Contribui com o levantamento de requisitos para o desenvolvimento do projeto.<br>
+
 
 ## Hard Skills
 - WordPress: É uma ferramenta que facilita a administração, não somente de blog e sites<br>, mas também de lojas virtuais e outras aplicações web.<br>
