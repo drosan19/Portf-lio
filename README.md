@@ -7,13 +7,10 @@
   ## Formação Acadêmica:
   * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.<br>
     Fatec - SJC
-
-  * Técnico em Informática.<br>
-    Colégio Técnico Antonio Teixeira Fernandes - Univap (2022-2004)  
-
+ 
   ## Experiência:
 
-   * Atualmente trabalho na empresa Atacadão - Sjc, como Auxiliar de Informática.<br>     
+   * Atualmente trabalho na empresa .<br>     
 <div align=center>
    <h2>Meus Projetos</h2>
     </div>
