@@ -26,8 +26,7 @@
   ## Meus Principais Conhecimentos
 
   Conhecimentos adquiridos ao longo do curso proporcionadado pela fatec.<br>
-
-  Linguagem de Programação: 
+  
   <div style="display: inline_block">
   <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
