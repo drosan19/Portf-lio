@@ -2,7 +2,7 @@
 
 <div align=center>
  <h3></h3>
-  <img src="" width=400 alt="Logotipo Elite Academy" />
+  <img src="" width=400 alt="" />
  
   
 </div>
