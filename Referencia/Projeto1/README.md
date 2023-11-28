@@ -9,9 +9,9 @@
 
 ## Desafio e Solução 2020-2
 
-<b>Desafio: Desenvolver um sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet.</b> .<br>
+<b>Desafio:</b> Desenvolver um sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
-<b>Como solução:A Safehouse surge como um serviço de automação residencial voltado para a iluminação, agindo sob o intuito de gerar maior segurança aos residentes que, presentes ou não, consigam acender/apagar as lâmpadas de suas casas através de aplicativo com suporte web Server.</b> .<br>
+<b>Como solução:</b>A Safehouse surge como um serviço de automação residencial voltado para a iluminação, agindo sob o intuito de gerar maior segurança aos residentes que, presentes ou não, consigam acender/apagar as lâmpadas de suas casas através de aplicativo com suporte web Server. .<br>
  
 <br>
 
