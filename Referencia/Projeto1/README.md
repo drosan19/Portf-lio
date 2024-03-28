@@ -6,7 +6,7 @@
  
   </div>
 
-## Desafio e Solução 2020-2
+## Desafio 01 e Solução 2019-2
 
 <b>Desafio:</b> Desenvolver um sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
@@ -19,7 +19,7 @@
  [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/).
 
 
-[Visualizar GitHub do Projeto]()
+[Visualizar GitHub do Projeto](https://github.com/caiquesjc/projeto-automatizado-4.0)
 
 ## Tecnologias Utilizadas
 
@@ -42,11 +42,15 @@
 
 Tecnologia | Classificação
 :---------: | :------:
-Integração de Software com web servers através do App Inventor     | Sei fazer com autonomia
+Integração de Software com web servers através do App Inventor     | Faço com ajuda
 Conhecimento de tecnologias e desenvolvimento de soluções IOT    | Faço com ajuda
 Firebase    | Faço com ajuda
 
 ## Soft Skills
 
-Controle Emocional: Pelo motivo de em vários momentos me encontrar em situações de cobrança, falta de tempo
+Controle Emocional: O controle emocional durante a execução das tarefas foi fundamental para manter o foco, a clareza mental e a eficiência. Ao lidar com situações desafiadoras, como prazos apertados ou demandas intensas, a capacidade de controlar as emoções evita decisões impulsivas e promove uma abordagem mais racional e estratégica. Isso permite uma execução mais precisa das tarefas, minimizando erros e garantindo resultados satisfatórios, mesmo em condições adversas.
 
+Proatividade: No projeto foi a peça-chave onde tivemos que desenvolver, eficiência, inovação, e buscando por soluções criativas e eficazes. 
+A proatividade em grupo de trabalho é essencial para impulsionar a produtividade e alcançar metas com eficiência.
+
+Trabalho em Equipe: A necessidade de trabalho em equipe foi fundamental para alcançar objetivos complexos e diversos da disciplina. Aprendemos que a colaboração entre os integrantes do grupo não apenas potencializa nossas habilidades individuais, mas também promove um ambiente de crescimento e realização coletiva.
