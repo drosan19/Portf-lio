@@ -40,6 +40,7 @@
 
 ## Hard Skills
 
+
  Tecnologia | Classificação
 :---------: | :------:
 Integração de Software com web servers através do App Inventor   | Faço com ajuda
