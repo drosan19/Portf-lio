@@ -8,9 +8,9 @@
 
 ## Desafio 01 e Solução 2019-2
 
-<b>Desafio:</b> Desenvolver um sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
+<b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma protótipo que  interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
-<b>Como solução:</b>A Safehouse surge como um serviço de automação residencial voltado para a iluminação, agindo sob o intuito de gerar maior segurança aos residentes que, presentes ou não, consigam acender/apagar as lâmpadas de suas casas através de aplicativo com suporte web Server. .<br>
+<b>Como solução:</b>A Solucães surge como um serviço de automação residencial voltado para a solução de alimentação de cães, agindo sob o intuito de gerar maior praticidade e conforto, para que propietarios de cães consigar controlar os horários de alimentantação de seu pet, fazendo isso através de um aplicativo com suporte web server . .<br>
  
 <br>
 
@@ -40,9 +40,9 @@
 
 ## Hard Skills
 
-Tecnologia | Classificação
+ Tecnologia | Classificação
 :---------: | :------:
-Integração de Software com web servers através do App Inventor     | Faço com ajuda
+Integração de Software com web servers através do App Inventor   | Faço com ajuda
 Conhecimento de tecnologias e desenvolvimento de soluções IOT    | Faço com ajuda
 Firebase    | Faço com ajuda
 

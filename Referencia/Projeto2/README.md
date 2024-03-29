@@ -39,8 +39,13 @@
 ## Contribuições Pessoais
 
 - Alinhamento de expectativas e levantamento de Requisitos com o cliente;
-  
-- Contribuição de ideias para desenvolvimento da solução;
+- Contribuição de ideias para desenvolvimento e solução para o projeto;
+- Identificação e resolução de problemas durante o processo de execução do projeto;
+- Apresentação de sugestões para otimização de recursos;
+- Colaboração ativa na gestão de equipe para garantir eficiência e produtividade.
+- Realização de análises de riscos e proposta de estratégias para mitigá-los;
+- Promoção de um ambiente colaborativo e motivador entre os membros da equipe para aumentar a produtividade e o engajamento.
+
 
 ## Hard Skills
 
@@ -51,13 +56,11 @@
 |       Pandas       |  Faço com ajuda   |
 |     Matplotlib     |  Faço com ajuda   |
 |     Inno Setup     |  Faço com ajuda   |
-|       Astah        | Faço com autonomia |
+|       Astah        |  Faço com ajuda   |
 |       GitHub       | Utilizo com autonomia |
 
 
 ## Soft Skills <br>
-Inteligência Emocional
-Foi de extrema importância,pois fomos motivados a pensar com coerência para que nossos comportamentos ou o comportamento
-de qualquer integrante da equipe não comprometesse o desenvolvimento do projeto.
 
-
+Inteligência Emocional:
+A inteligência emocional desempenhou um papel crucial em nosso projeto, incentivando-nos a agir com discernimento para evitar que nossos comportamentos, ou os de qualquer membro da equipe, prejudicassem nosso progresso. Ao cultivar a consciência emocional e a empatia, conseguimos lidar com desafios e conflitos de forma construtiva, promovendo um ambiente de trabalho harmonioso e produtivo. Essa habilidade permitiu que navegássemos pelos altos e baixos do projeto com resiliência e colaboração, alcançando nossos objetivos de maneira eficaz.
