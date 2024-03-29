@@ -9,7 +9,7 @@
 
 <b>Desafio:</b>Sistema de previsão de quebra de sistema web 
 
-<b>Como solução:</b> O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições atuais do sistema.
+<b>Como solução:</b> O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições de atuais de uso do sistema. Visando o momento da inatividade do sistema web.
 
 
 ## Parceiro Acadêmico
@@ -41,17 +41,19 @@ Nosso parceiro acadêmico.</a><br>
 
 ## Hard Skills
 
-| Tecnologia  |   Classificação   |
-| :---------: | :---------------: |
-| PostgreSQL  |  Faço com ajuda   |
-|   NGINX    | Faço com ajuda |
-|   VueJS   |  Faço com ajuda   |
-|   GitHub    | Utilizo com autonomia |
-|   Prometheus    | Faço com ajuda |
-|   Grafana    | Faço com autonomia |
+| Tecnologia  |   Classificação  |
+| :---------: | :---------------:|
+| PostgreSQL  |  Faço com ajuda  |
+|    NGINX    |  Faço com ajuda  |
+|    VueJS    |  Faço com ajuda  |
+| Prometheus  |  Faço com ajuda  |
+|   Grafana   |  Faço com ajuda  |
+|   GitHub    |  Utilizo com autonomia |
 
 ## Soft Skills
 
 Proatividade - Tomada de iniciativa na execução de tarefas propostas
+
+Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
   
 </div>

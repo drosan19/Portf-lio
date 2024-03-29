@@ -1,12 +1,12 @@
 # Portfólio 
 <div align=center>
   <img src="https://github.com/cassia2023/Projeto/assets/151237166/5b335514-3b96-4703-8c43-4255426ec089" width=200 alt="" />
-  <h2>Sandro Araujo</h2>
+  <h2>Sandro Araújo</h2>
     </div>
 
   ## Formação Acadêmica:
-  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Software.<br>
-    Fatec - SJC
+  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Sistema.<br>
+  * Faculdade de Tecnologia de São José dos Campos - Fatec - SJC
  
   ## Experiência:
 
@@ -15,9 +15,9 @@
    <h2>Meus Projetos</h2>
     </div>
 
-1) [1º Projeto - Safehouse.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto1) Automação Residencial - 2019-2;
+1) [1º Projeto - Solucães.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto1) Automação Residencial - 2019-2;
 2) [2º Projeto VisualData.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto2)Lei do Cadastro Positivo -2020-1;
-3) [3º Projeto ShapeGIS.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto3)Transformar dados de arquivo do tipo Shapefile -2020-2;
+3) [3º Projeto ShapeTP.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto3)Transformar dados de arquivo do tipo Shapefile -2020-2;
 4) [4º Projeto SISATAS.](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto4) Gerenciamento de Atas -2021-1;
 5) [5º Projeto BureAuto](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto5)Sistema de Vendas de Imoveis -2021-2;
 6) [6º Projeto BTAlert](https://github.com/drosan19/Portfolio/tree/main/Referencia/Projeto6) Previsão de Quebra de Sistema Web-2022-1;

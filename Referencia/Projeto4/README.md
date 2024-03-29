@@ -48,5 +48,4 @@ Empatia: Desenvolver empatia é essencial para compreender as demandas dos clien
 
 A equipe necessitava de maiores detalhes sobre o desafio proposto pela empresa, neste momento partcipei na análise e levantamentos de requisitos, buscando conhecimentos para auxiliar as entregas.
 
-
 A colaboração é fundamental para o sucesso da equipe, demonstrando comprometimento com as tarefas atribuídas e contribuindo ativamente para atender às demandas do grupo.

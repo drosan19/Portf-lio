@@ -5,7 +5,7 @@
   <img src="https://github.com/drosan19/Portfolio/assets/130381620/8e530ae4-d429-4ba0-8692-c4ece5d441c8" width=400 alt="" />
  </div>
 
-## Desafio e Solução 2021-2
+## Desafio e Solução 2022-2
 <b>Desafio:</b> conduzido a partir da necessidade, da empresa parceira, de uma melhoria de um sistema de vendas de imóveis, onde foi identificado, como forma de melhoria contínua, a oportunidade de anunciar veículos
 
 <b>Como solução:</b> BureAuto é uma aplicação WEB e Mobile, desenvolvida para suprir a necessidade da empresa parceira, onde atende os requisitos solicitados pelo cliente, como login/logout, cadastro de usuários e anúncios através de arquivos csv, visualização de anúncios, contabilização de anúncios, filtros de anúncios, visualização de relatórios para o anunciante com o fornecimento de indicadores que o auxiliem em suas regras de negócio, chat em tempo real, para negociação dos anúncios da plataforma.
