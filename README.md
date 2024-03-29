@@ -5,7 +5,7 @@
     </div>
 
   ## Formação Acadêmica:
-  * Estudante do 6° semestre do curso de Analise e Desenvolvimento de Sistema.<br>
+  * Estudante do 6° semestre do curso de Análise e Desenvolvimento de Sistemas.<br>
   * Faculdade de Tecnologia de São José dos Campos - Fatec - SJC
  
   ## Experiência:
