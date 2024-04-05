@@ -40,6 +40,14 @@
 - Participei da elaboração do App Inventor Designer com objetivo de construir a interface do aplicativo;
 - Contribuição no App Inventor Blocks Editor ajudando na interatividade dos componentes de tela;
 
+## Aprendizado
+- Aprendi a utilizar App Inventor Designer e o App Inventor Blocks para criação de aplicativos, também aprendemos sobre eletrônica, sendo necessário a utilização de microcontroladores utilizado em automação controlando servo motores, além de aprender a utilizar Jamper para conexão de microcontroladores com servo motores utilizando protoboard como base de conexão.
+
+## Dificuldade
+- Desafio em fazer a integração do APP Inventor com o Módulo Wifi Esp8266 para Protoboard, e fazer o desenvolvimento de tela e interatividade da aplicação.
+Desafio em aplicar eletrônica para conexão com cabos jumpers machos x fêmea, além de fazer toda a montagem do módulo Wifi Esp8266 Esp-01 no Protoboard.
+
+
 ## Hard Skills
 
 | Tecnologia | Classificação |
