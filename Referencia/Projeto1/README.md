@@ -8,9 +8,9 @@
 
 ## Desafio 01 e Solução 2019-2
 
-<b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma protótipo que  interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
+<b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em um protótipo que interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
-<b>Como solução:</b>A Solucães surge como um serviço de automação residencial voltado para a solução de alimentação de cães, agindo sob o intuito de gerar maior praticidade e conforto, para que propietarios de cães consigar controlar os horários de alimentantação de seu pet, fazendo isso através de um aplicativo com suporte web server . .<br>
+<b>Como solução:</b> A Solucães surge como um serviço de automação residencial voltado para a solução de alimentação de cães, agindo sob o intuito de gerar maior praticidade e conforto, para que proprietários de cães consiga controlar os horários de alimentação de seu pet, fazendo isso através de um aplicativo com suporte web server . .<br>
  
 <br>
 
@@ -29,23 +29,25 @@
 
 #### Hardwares:
 
-- Módulo WiFi ESP8266 NodeMCU ESP-12;
+- Módulo WiFi ESP8266 NodeMCU ESP-12.
 - Protoboard 640 Pontos 1 Barra Sem Suporte.
+- Cabos Jumper, Macho X Fêmea.
 
 ## Contribuições Pessoais
 
 - Definição de requisitos, com ideias de brainstorming e pesquisas iniciais;
-  
 - Desenvolvimento da conexão do software à internet;
+- Participei da elaboração do App Inventor Designer com objetivo de construir a interface do aplicativo;
+- Contribuição no App Inventor Blocks Editor ajudando na interatividade dos componentes de tela;
 
 ## Hard Skills
 
-
- Tecnologia | Classificação
-:---------: | :------:
-Integração de Software com web servers através do App Inventor   | Faço com ajuda
-Conhecimento de tecnologias e desenvolvimento de soluções IOT    | Faço com ajuda
-Firebase    | Faço com ajuda
+| Tecnologia | Classificação |
+| :--------: | :-----------: |
+| Integração de Software com web servers através do App Inventor   | Faço com ajuda |
+| Conhecimento de tecnologias e desenvolvimento de soluções IOT    | Faço com ajuda |
+| Conexão de Microcontrolador com App Inventor | Faço com ajuda |
+| Conexão eletrônica com o microcontrolador    | Faço com ajuda |
 
 ## Soft Skills
 

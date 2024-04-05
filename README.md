@@ -4,13 +4,24 @@
   <h2> Sandro Araújo </h2>
     </div>
 
-  ## Formação Acadêmica:
-  * Estudante do 6° semestre do curso de Análise e Desenvolvimento de Sistemas.<br>
-  * Faculdade de Tecnologia de São José dos Campos - Fatec - SJC
- 
-  ## Experiência:
+## Introdução
+  
+Meu nome é Sandro de Araújo sou aluno do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC. Desde o início de minha jornada acadêmica, em 2020, decidi direcionar meus esforços para a área de Tecnologia da Informação (TI), buscando ampliar meus conhecimentos e habilidades neste campo em constante evolução.
 
-   * Atualmente trabalho na empresa .<br>     
+No ano de 2023, tive a oportunidade de iniciar meu estágio na empresa XXXXXXX, onde pude vivenciar na prática os conceitos aprendidos em sala de aula e aprofundar minha experiência no universo da TI.
+
+O motivo que me impulsionou a ingressar nesta área é a compreensão do papel fundamental que a tecnologia desempenha em nossa sociedade atual. Vivemos em um mundo cada vez mais globalizado e interconectado, onde a demanda por profissionais qualificados em TI é crescente. Desde empresas de pequeno porte até grandes corporações, todas dependem da tecnologia para otimizar seus processos e alcançar seus objetivos de negócios.
+
+A área de Tecnologia da Informação oferece um vasto leque de oportunidades profissionais, desde o desenvolvimento de sistemas e aplicativos até a consultoria para empresas em suas estratégias digitais. Além disso, os salários atrativos e a constante necessidade de talentos no mercado tornam esta área ainda mais atrativa para quem busca uma carreira promissora e desafiadora.
+
+Portanto, escolher a TI como minha área de atuação não apenas me proporciona a oportunidade de seguir uma carreira em um campo dinâmico e inovador, mas também me motiva a contribuir para a transformação digital da sociedade.
+
+
+
+ 
+## Experiência:
+
+  * Atualmente trabalho na empresa Tenda Atacadista .<br>     
 <div align=center>
    <h2> Meus Projetos </h2>
     </div>
