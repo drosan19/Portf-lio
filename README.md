@@ -19,7 +19,8 @@ Portanto, escolher a TI como minha área de atuação não apenas me proporciona
 
 ## Experiência:
 
-  * Atualmente trabalho na empresa Tenda Atacadista .<br>  
+  * Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção.<br>  
+##
 
 <div align=center>
    <h2> Meus Projetos </h2>
