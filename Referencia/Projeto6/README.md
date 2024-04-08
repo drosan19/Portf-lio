@@ -7,7 +7,7 @@
 
 ## Desafio e Solução 2022-1
 
-<b>Desafio:</b>Sistema de previsão de quebra de sistema web 
+<b>Desafio:</b> Sistema de previsão de quebra de sistema web 
 
 <b>Como solução:</b> O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições de atuais de uso do sistema. Visando o momento da inatividade do sistema web.
 
@@ -36,8 +36,18 @@ Nosso parceiro acadêmico.</a><br>
 ## Contribuições Pessoais
 
 - Contribuição no desenvolvimento do front-end da aplicação a ser monitorada;
-
 - Participação no desenvolvimento do monitoramento, como buscas e participação nas integrações do Prometheus com Grafana e os plugins necessários para extração dos dados coletados, para análise.
+
+## Aprendizado
+- NGINX servidor web. 
+- Prometheus um aplicativo de software livre usado para monitoramento de eventos e alertas, registra métricas em tempo real em um banco de dados de séries temporais (permitindo alta dimensionalidade) construído usando um modelo HTTP pull, com consultas flexíveis e alertas em tempo real.
+- Grafana é uma plataforma para visualizar e analisar métricas por meio de gráficos.
+
+## Dificuldade
+- Dificuldade com utilização do Prometheus.
+- Dificuldade com NGINX.
+- Dificuldade no desenvolvimento da aplicação.
+- Dificuldae em entender as metricas e parametros nescessarios para utilizar na aplicação, e trazer um serviço mais acertivo.  
 
 ## Hard Skills
 
@@ -52,8 +62,9 @@ Nosso parceiro acadêmico.</a><br>
 
 ## Soft Skills
 
-Proatividade - Tomada de iniciativa na execução de tarefas propostas
+Proatividade:
 
-Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
+- Tomada de iniciativa na execução de tarefas propostas.
+- Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
   
 </div>

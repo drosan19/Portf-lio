@@ -31,6 +31,16 @@ Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 - Participaçãp no desenvolvimento das telas de edição de perfil, bem como suas funcionalidades.
 - Participação no desenvolvimento e integração do backend com as telas de visualização de anúncios, tela de relatórios, tela de mensagens.
 
+## Aprendizado
+- React Native, baseada na linguagem JavaScript, que permite criar aplicativos móveis renderizados nativamente para iOS e Android. 
+- Vue JS uma framework Javascript utilizado para criar aplicações single page (página única) e também para desenvolver vários tipos de interfaces, que possuem necessidades de maior interação e experiência para o usuário.
+
+## Dificuldade
+- Dificuldade em utilizar o framework Vue JS.
+- Dificuldade com a linguagem JavaScript.
+- Dificuldade no desenvolvimento de interfaces de usuário UI (User Interface).
+- Dificuldade no desenvolvimento Front-end. 
+
 ## Hard Skills
 
 | Tecnologia  |   Classificação   |
