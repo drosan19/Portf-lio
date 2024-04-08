@@ -64,7 +64,7 @@ Nosso parceiro acadêmico.</a><br>
 
 Proatividade:
 
-- Tomada de iniciativa na execução de tarefas propostas.
-- Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
+Tomada de iniciativa na execução de tarefas propostas.
+Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
   
 </div>
