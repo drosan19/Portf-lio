@@ -55,3 +55,6 @@ Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 Trabalho em equipe - Para a divisão de tarefas que sejam realizadas e entregues no prazo.
 Devido a demanda de atividades foi necessário em alguns momentos o pair programming, para que se pudesse obter um ganho na produtividade em tarefas que levariam um maior tempo de execução.
 
+No trabalho em equipe, foi importante entender que estamos falando de pessoas com perfis diferentes, backgrounds diversos, modos de trabalhar distintos, além de uma grande variedade de processos de trabalho.
+Por isso, a empatia, paciência, uma boa comunicação, liderança e persuasão foram importantes para evitar e gerenciar conflitos, promover o engajamento, garantir a unidade no time e entender como lidar com as particularidades de cada indivíduo.
+
