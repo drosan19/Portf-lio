@@ -45,7 +45,7 @@
 
 ## Dificuldade
 - Desafio em fazer a integração do APP Inventor com o Módulo Wifi Esp8266 para Protoboard, e fazer o desenvolvimento de tela e interatividade da aplicação.
-Desafio em aplicar eletrônica para conexão com cabos jumpers machos x fêmea, além de fazer toda a montagem do módulo Wifi Esp8266 Esp-01 no Protoboard.
+- Desafio em aplicar eletrônica para conexão com cabos jumpers machos x fêmea, além de fazer toda a montagem do módulo Wifi Esp8266 Esp-01 no Protoboard.
 
 
 ## Hard Skills
