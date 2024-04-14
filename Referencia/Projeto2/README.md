@@ -7,11 +7,17 @@
 </div>
 
 ## Desafio e Solução  2021-1
+<div style="text-align: justify;">
 
 <b>Desafio:</b> Conduzido a partir de uma ideia sobre como poderíamos através de dados oriundos da nova Lei do Cadastro Positivo, que vigorou a partir de 09/07/2019, no qual a entrada do consumidor pessoa física ou jurídica passou a ser automática, que resultou na geração de uma grande massa de dados, gerar valor desses dados obtidos através do vigor dessa lei.
 ​Devido ao cenário do momento, com a queda drástica de veículos emplacados no acúmulo anual, se comparado ao ano anterior, de acordo com o [relatório](http://www.fenabrave.org.br/portalv2/Conteudo/Emplacamentos) de maio/2020 da Fenabrave. Este problema afeta as operadoras de crédito, fabricantes e concessionárias de veículos; Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. Gerando déficit de vendas e da fabricação de veículos e geração de estoque. Fabricantes e concessionárias precisam se adaptar aos novos desafios que o cenário do momento exige. .<br>
 
 <b>Como solução:</b> Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais com, logística, produção, publicidade, redução de custos, localização e contratação de seus fornecedores.
+
+</div>
+
+
+
 
 ## Parceiro Acadêmico
  [SPC Brasil](https://www.spcbrasil.org.br/).
@@ -70,6 +76,10 @@
 
 
 ## Soft Skills <br>
+<div style="text-align: justify;">
 
 Inteligência Emocional:
 A inteligência emocional desempenhou um papel crucial em nosso projeto, incentivando-nos a agir com discernimento para evitar que nossos comportamentos, ou os de qualquer membro da equipe, prejudicassem nosso progresso. Ao cultivar a consciência emocional e a empatia, conseguimos lidar com desafios e conflitos de forma construtiva, promovendo um ambiente de trabalho harmonioso e produtivo. Essa habilidade permitiu que navegássemos pelos altos e baixos do projeto com resiliência e colaboração, alcançando nossos objetivos de maneira eficaz.
+
+</div>
+

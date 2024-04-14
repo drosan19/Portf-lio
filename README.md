@@ -5,18 +5,23 @@
     </div>
 
 ## Introdução
-  
+ <div style="text-align: justify;">
 Meu nome é Sandro de Araújo Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC)- Prof. Jessen Vidal, e estou cursando o 6º semestre. 
 
-Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, na Escola "LUIZ SIMON". Durante o curso adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico e      outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos. 
+<br>
+
+Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Escola "LUIZ SIMON". Durante o curso onde adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico entre   outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos. 
 
 No entanto, por razões pessoais e profissionais, optei por fazer uma transição de carreira para a área de tecnologia. Esse movimento foi motivado pela crescente demanda por profissionais qualificados nesse setor, que oferece oportunidades de carreira promissoras, boa remuneração e maior flexibilidade no trabalho. Sem contar a possibilidade do empreendedorismo que também é uma opção viável. Devido ao grande cresciemnto na área de Tecnologia da Informação, influenciado pelo amplo mercado de trabalho, as oportunidades de carreira promissoras, o alto índice de empregabilidade e a valorização profissional, optei por ingressar na área de TI. Portanto, escolher TI como minha área de atuação me proporciona a oportunidade de seguir uma carreira em um campo dinâmico e inovador.
 
-
+</div>
 
 ## Experiência:
+<div style="text-align: justify;">
 
-  * Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias.<br> 
+* Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias.<br> 
+
+</div>
 
 ##
 

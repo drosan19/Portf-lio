@@ -8,10 +8,13 @@
 
 ## Desafio 01 e Solução 2019-2
 
+<div style="text-align: justify;">
+
 <b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em um protótipo que interage com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
 <b>Como solução:</b> A Solucães surge como um serviço de automação residencial voltado para a solução de alimentação de cães, agindo sob o intuito de gerar maior praticidade e conforto, para que proprietários de cães consiga controlar os horários de alimentação de seu pet, fazendo isso através de um aplicativo com suporte web server . .<br>
- 
+</div>
+
 <br>
 
 ## Parceiro Acadêmico
@@ -58,6 +61,7 @@
 | Conexão eletrônica com o microcontrolador    | Faço com ajuda |
 
 ## Soft Skills
+<div style="text-align: justify;">
 
 Controle Emocional: O controle emocional durante a execução das tarefas foi fundamental para manter o foco, a clareza mental e a eficiência. Ao lidar com situações desafiadoras, como prazos apertados ou demandas intensas, a capacidade de controlar as emoções evita decisões impulsivas e promove uma abordagem mais racional e estratégica. Isso permite uma execução mais precisa das tarefas, minimizando erros e garantindo resultados satisfatórios, mesmo em condições adversas.
 
@@ -65,3 +69,6 @@ Proatividade: No projeto foi a peça-chave onde tivemos que desenvolver, eficiê
 A proatividade em grupo de trabalho é essencial para impulsionar a produtividade e alcançar metas com eficiência.
 
 Trabalho em Equipe: A necessidade de trabalho em equipe foi fundamental para alcançar objetivos complexos e diversos da disciplina. Aprendemos que a colaboração entre os integrantes do grupo não apenas potencializa nossas habilidades individuais, mas também promove um ambiente de crescimento e realização coletiva.
+
+</div>
+

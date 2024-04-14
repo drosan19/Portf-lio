@@ -6,9 +6,14 @@
  </div>
 
 ## Desafio e Solução 2020-2
+<div style="text-align: justify;">
+
 <b> Desafio:</b> Conduzido a partir da necessidade, da empresa parceira, de Extrair, Transformar e Carregar dados de arquivos do tipo [Shapefile](https://pt.wikipedia.org/wiki/Shapefile) para sua base de dados e o caminho inverso, gerar arquivos Shapefile de dados registrador em sua base de dados, devida limitação de licenças da solução que utilizara.
 
 <b> Como solução: </b> ​ShapeTP fora desenvolvido para atender essa necessidade, uma aplicação Web com interface intuitiva, desenvolvida com base nas heurísticas de [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), utilizadas tecnologias atuais como ReactJS, Spring Boot e como linguagem de programação Java para Fack-End e JavaScript para interações no Front-End..
+
+</div>
+
 
 ## Parceiro Acadêmico
 Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)
@@ -63,6 +68,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 |        GitHub        | Utilizo com autonomia |
 
 ## Soft Skills
+<div style="text-align: justify;">
 
 Empatia:
 
@@ -70,3 +76,6 @@ Passamos por momentos difíceis para desenvolver esta aplicação.
 Em muitos momentos me coloquei no lugar de outros colegas para entender
 seus sentimentos e dificuldades e assim,moldar-me de uma maneira melhor para contribuir com as entregas.
 A empatia foi fundamental durante o desenvolvimento desta aplicação. Em meio aos desafios enfrentados, foi necessário compreender as perspectivas e experiências dos colegas, colocando-me em seus lugares para entender seus sentimentos e dificuldades. Essa capacidade de se colocar no lugar do outro permitiu uma colaboração mais eficaz e uma abordagem mais sensível às necessidades de cada membro da equipe. Ao cultivar a empatia, pude me adaptar e contribuir de maneira mais significativa para as entregas do projeto, fortalecendo o trabalho em equipe e alcançando resultados mais positivos.
+
+</div>
+

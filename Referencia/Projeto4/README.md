@@ -7,9 +7,15 @@
   </div>
 
 ## Desafio e Solução 2022-1
-<b>Desafio:</b> Diante da necessidade da empresa parceira, surge a demanda crucial por uma solução eficiente para o gerenciamento de atas de reunião. O processo é conduzido de forma manual, utilizando planilhas do Excel (.xls, .xlsx), o que pode resultar em falhas, perda de dados e ineficiência operacional. Para atender a essa necessidade, é imprescindível desenvolver uma ferramenta automatizada e centralizada, capaz de registrar, organizar e gerenciar todas as atas de reunião de forma integrada e segura. Este sistema deve oferecer funcionalidades que facilitem a criação, edição, compartilhamento e arquivamento das atas, proporcionando maior agilidade, transparência e rastreabilidade ao processo de gestão de reuniões.
+<div style="text-align: justify;">
+
+  <b>Desafio:</b> Diante da necessidade da empresa parceira, surge a demanda crucial por uma solução eficiente para o gerenciamento de atas de reunião. O processo é conduzido de forma manual, utilizando planilhas do Excel (.xls, .xlsx), o que pode resultar em falhas, perda de dados e ineficiência operacional. Para atender a essa necessidade, é imprescindível desenvolver uma ferramenta automatizada e centralizada, capaz de registrar, organizar e gerenciar todas as atas de reunião de forma integrada e segura. Este sistema deve oferecer funcionalidades que facilitem a criação, edição, compartilhamento e arquivamento das atas, proporcionando maior agilidade, transparência e rastreabilidade ao processo de gestão de reuniões.
 
 <b>Como Solução:</b> ​SISATAS: O Sistema de Atas Online (SISATAS) foi concebido para atender às demandas específicas da empresa parceira. Desenvolvido com tecnologias de ponta, o sistema oferece uma gama de recursos essenciais para a gestão eficiente de reuniões. Com funcionalidades de login e logout, o acesso é restrito e controlado de acordo com os níveis de permissão de cada usuário. Além disso, o SISATAS dispõe de um módulo completo para solicitação e recuperação de senhas, facilitando a administração de contas. Sua interface intuitiva permite a criação, edição, aprovação e envio de atas de forma simplificada, com a opção de exportar para Excel para maior praticidade. O sistema também oferece recursos avançados, como a visualização e extração de relatórios detalhados sobre atas e usuários, além de um eficiente sistema de notificação para manter todos os envolvidos atualizados em tempo real.
+
+</div>
+
+
 
 ## Parceiro Acadêmico
 
@@ -53,9 +59,14 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 |   GitHub    | Utilizo com autonomia |
 
 ## Soft Skills
+<div style="text-align: justify;">
 
 Empatia: Desenvolver empatia é essencial para compreender as demandas dos clientes, priorizando uma análise aprofundada e a busca por soluções eficazes.
 
 A equipe necessitava de maiores detalhes sobre o desafio proposto pela empresa, neste momento partcipei na análise e levantamentos de requisitos, buscando conhecimentos para auxiliar as entregas.
 
 A colaboração é fundamental para o sucesso da equipe, demonstrando comprometimento com as tarefas atribuídas e contribuindo ativamente para atender às demandas do grupo.
+
+</div>
+
+
