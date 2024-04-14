@@ -6,20 +6,19 @@
 
 ## Introdução
   
-Meu nome é Sandro de Araújo sou aluno do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC. 
-Desde o início de minha jornada acadêmica, em 2020, decidi direcionar meus esforços para a área de Tecnologia da Informação (TI), buscando ampliar meus conhecimentos e habilidades neste campo em constante evolução.
+Meu nome é Sandro de Araújo Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC)- Prof. Jessen Vidal, e estou cursando o 6º semestre. 
 
-O motivo que me impulsionou a ingressar nesta área é a compreensão do papel fundamental que a tecnologia desempenha em nossa sociedade atual. Vivemos em um mundo cada vez mais globalizado e interconectado, onde a demanda por profissionais qualificados em TI é crescente. Desde empresas de pequeno porte até grandes corporações, todas dependem da tecnologia para otimizar seus processos e alcançar seus objetivos de negócios.
+Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, na Escola "LUIZ SIMON". Durante o curso, adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico e outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos.
+No entanto, por razões pessoais e profissionais, optei por fazer uma transição de carreira para a área de tecnologia. Esse movimento foi motivado pela crescente demanda por profissionais qualificados nesse setor, que oferece oportunidades de carreira promissoras, boa remuneração e maior flexibilidade no trabalho. Sem contar a possibilidade do empreendedorismo que também é uma opção viável.
 
-A área de Tecnologia da Informação oferece um vasto leque de oportunidades profissionais, desde o desenvolvimento de sistemas e aplicativos até a consultoria para empresas em suas estratégias digitais. 
-Além disso, os salários atrativos e a constante necessidade de talentos no mercado tornam esta área ainda mais atrativa para quem busca uma carreira promissora e desafiadora.
+Devido ao grande cresciemnto na área de Tecnologia da Informação, influenciado pelo amplo mercado de trabalho, as oportunidades de carreira promissoras, o alto índice de empregabilidade e a valorização profissional, optei por ingressar na área de TI. Portanto, escolher TI como minha área de atuação me proporciona a oportunidade de seguir uma carreira em um campo dinâmico e inovador.
 
-Portanto, escolher a TI como minha área de atuação não apenas me proporciona a oportunidade de seguir uma carreira em um campo dinâmico e inovador, mas também me motiva a contribuir para a transformação digital da sociedade.
 
 
 ## Experiência:
 
-  * Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção.<br>  
+  * Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias.<br> 
+  
 ##
 
 <div align=center>

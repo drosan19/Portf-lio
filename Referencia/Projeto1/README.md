@@ -8,7 +8,7 @@
 
 ## Desafio 01 e Solução 2019-2
 
-<b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em um protótipo que interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
+<b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em um protótipo que interage com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
 <b>Como solução:</b> A Solucães surge como um serviço de automação residencial voltado para a solução de alimentação de cães, agindo sob o intuito de gerar maior praticidade e conforto, para que proprietários de cães consiga controlar os horários de alimentação de seu pet, fazendo isso através de um aplicativo com suporte web server . .<br>
  
