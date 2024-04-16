@@ -14,12 +14,10 @@ Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Esc
 Por motivos pessoais e profissionais, decidi realizar uma transição de carreira para a área de tecnologia. Este movimento foi impulsionado pela alta demanda por profissionais qualificados no setor, que oferece oportunidades de carreira promissoras, remuneração atrativa e flexibilidade no trabalho. Além disso, o empreendedorismo se apresenta como uma opção viável dentro deste cenário. O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo mercado de trabalho, às perspectivas de carreira favoráveis, ao elevado índice de empregabilidade e à valorização profissional, me levou a escolher a TI como minha nova área de atuação e busca conhecimento, optar por tecnologia como foco de minha carreira me proporciona a chance de atuar em um campo dinâmico e inovador.
 </div>
 
-
-
 ## Experiência:
 <div align="justify">
 
-* Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias.<br> 
+* Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias. Estou em processo de transição para a área de Tecnologia da Informação (TI), buscando oportunidades de crescimento profissional e desenvolvimento na minha carreira.<br> 
 
 </div>
 
