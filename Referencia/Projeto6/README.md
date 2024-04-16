@@ -68,7 +68,8 @@ Nosso parceiro acadêmico.</a><br>
 
 Gestão do Tempo: Para cada sprint era necessário cumprir com as tarefas estabelecidas no backlog do produto, assim desenvolvi de acordo com o tempo limite pois melhorei a capacidade de gerenciar tarefas de forma eficiente priorizando prazos.
 
-Tomada de iniciativa na execução de tarefas propostas.
-Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Foi um desafio intenso, mas a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto, compartilhando ideias e solucionando problemas em equipe, foi essencial para superar os obstáculos enfrentados. Sem dúvida, este foi o projeto mais desafiador que já enfrentamos, mas também o mais gratificante, pois nos permitiu crescer profissionalmente e fortalecer os laços de trabalho em equipe.
+Enfrentamos desafios na identificação dos problemas da empresa, o que nos levou a intensificar o contato com nossos clientes. Realizamos diversas reuniões e trocas de e-mails para compreender melhor o problema e desenvolver uma solução eficaz. As discussões em grupo foram fundamentais para decidir qual seria a abordagem mais adequada para superar o desafio.
+
+Participar deste projeto foi uma experiência transformadora, especialmente pela imersão na área de inteligência artificial. A necessidade de adquirir conhecimento rapidamente para desenvolver a aplicação exigiu dedicação e empenho constantes. Embora tenha sido um desafio intenso, a colaboração entre os membros da equipe foi fundamental. Trabalhar em conjunto e solucionar problemas coletivamente foram aspectos essenciais para superar os obstáculos. Este projeto, sem dúvida, foi o mais desafiador que enfrentamos, mas também o mais gratificante, permitindo-nos crescer profissionalmente e fortalecer os laços de trabalho em equipe.
 
 </div>

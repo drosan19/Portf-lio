@@ -76,10 +76,9 @@
 ## Soft Skills <br>
 <div align="justify">
 
-Pensamento Analítico e Resolução de Desafios Técnicos: Implementar funcionalidades como a tela de aprovação de novos cadastros e a integração com o servidor exigiu pensamento analítico e habilidade para superar desafios técnicos.
+Pensamento Analítico e Resolução de Desafios Técnicos: Implementar funcionalidades E a integração com o servidor exigiu pensamento analítico e habilidade para superar desafios técnicos.
 
-Inteligência Emocional:
-Enfrentamos desafios na implementação do PowerBI com Python, exigindo paciência e resiliência para identificar e resolver os problemas. Contamos com a colaboração de toda a equipe para análise, troca de ideias e busca da melhor solução.
+Enfrentamos desafios na implementação do PowerBI e Python, Onde busquei conhecimento em PowerBI, através de pesquisa na internet e com professores, para encontrar a melhor resolução para o desafio, exigindo paciência e resiliência para identificar e resolver os problemas. Contamos com a colaboração de toda a equipe para análise de ideias e busca da melhor solução.
 
 
 </div>
