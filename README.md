@@ -6,17 +6,20 @@
 
 ## Introdução 
 
-<div style="text-align: justify;">
+<table width="100%">
+  <tr>
+    <td style="text-align: left;">
+      Meu nome é Sandro de Araújo. Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC) - Prof. Jessen Vidal, e estou cursando o 6º semestre.
 
-Meu nome é Sandro de Araújo Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC)- Prof. Jessen Vidal, e estou cursando o 6º semestre. 
+      Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Escola "LUIZ SIMON". Durante o curso onde adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico entre outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos.
+    
+      Por motivos pessoais e profissionais, decidi realizar uma transição de carreira para a área de tecnologia. Este movimento foi impulsionado pela alta demanda por profissionais qualificados no setor, que oferece oportunidades de carreira promissoras, remuneração atrativa e flexibilidade no trabalho. Além disso, o empreendedorismo se apresenta como uma opção viável dentro deste cenário.
 
+      O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo mercado de trabalho, às perspectivas de carreira favoráveis, ao elevado índice de empregabilidade e à valorização profissional, me levou a escolher a TI como minha área de atuação. Assim, optar por tecnologia como foco de minha carreira me proporciona a chance de atuar em um campo dinâmico e inovador.
+    </td>
+  </tr>
+</table>
 
-Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Escola "LUIZ SIMON". Durante o curso onde adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico entre   outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos. 
-
-Por motivos pessoais e profissionais, decidi realizar uma transição de carreira para a área de tecnologia. Este movimento foi impulsionado pela alta demanda por profissionais qualificados no setor, que oferece oportunidades de carreira promissoras, remuneração atrativa e flexibilidade no trabalho. Além disso, o empreendedorismo se apresenta como uma opção viável dentro deste cenário. 
-O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo mercado de trabalho, às perspectivas de carreira favoráveis, ao elevado índice de empregabilidade e à valorização profissional, me levou a escolher a TI como minha área de atuação. Assim, optar por tecnologia como foco de minha carreira me proporciona a chance de atuar em um campo dinâmico e inovador.
-
-</div>
 
 ## Experiência:
 <div style="text-align: justify;">
