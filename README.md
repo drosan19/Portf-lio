@@ -53,10 +53,6 @@ Por motivos pessoais e profissionais, decidi realizar uma transição de carreir
 
 
 
-  
- 
-          
-
   ## Contatos
 * [Github](https://github.com/drosan19/Portfolio)
 * [LinkedIn]()

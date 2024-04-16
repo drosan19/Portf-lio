@@ -61,11 +61,11 @@ Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 ## Soft Skills
 <div align="justify">
 
-Empatia: Desenvolver empatia é essencial para compreender as demandas dos clientes, priorizando uma análise aprofundada e a busca por soluções eficazes.
+Trabalho em Equipe: No projeto, assumi responsabilidades e contribuí ativamente para os objetivos comuns, superando desafios técnicos. A equipe conseguiu distribuir tarefas de acordo com as habilidades individuais.
 
-A equipe necessitava de maiores detalhes sobre o desafio proposto pela empresa, neste momento partcipei na análise e levantamentos de requisitos, buscando conhecimentos para auxiliar as entregas.
+Gestão do Tempo: Aprimorei minha capacidade de gerenciar tarefas de forma eficiente, priorizando prazos. Cada sprint exigia o cumprimento das tarefas do backlog do produto, e desenvolvi conforme o tempo estabelecido.
 
-A colaboração é fundamental para o sucesso da equipe, demonstrando comprometimento com as tarefas atribuídas e contribuindo ativamente para atender às demandas do grupo.
+A colaboração é fundamental para o sucesso da equipe, demonstrando comprometimento com as tarefas atribuídas e contribuindo ativamente para atender às demandas do grupo. A equipe necessitava de maiores detalhes sobre o desafio proposto pela empresa, neste momento participei na análise e levantamentos de requisitos, buscando conhecimentos para auxiliar as entregas.
 
 </div>
 

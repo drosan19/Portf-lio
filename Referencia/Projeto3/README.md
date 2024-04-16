@@ -70,12 +70,10 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 ## Soft Skills
 <div align="justify">
 
-Empatia:
+Trabalho em Equipe: Organizar reuniões para revisar o progresso do projeto e garantir a entrega de tarefas dentro dos prazos estabelecidos, promover uma comunicação eficaz entre os membros da equipe durante as reuniões de scrum, garantindo que todos estejam alinhados.
 
-Passamos por momentos difíceis para desenvolver esta aplicação.
-Em muitos momentos me coloquei no lugar de outros colegas para entender
-seus sentimentos e dificuldades e assim,moldar-me de uma maneira melhor para contribuir com as entregas.
-A empatia foi fundamental durante o desenvolvimento desta aplicação. Em meio aos desafios enfrentados, foi necessário compreender as perspectivas e experiências dos colegas, colocando-me em seus lugares para entender seus sentimentos e dificuldades. Essa capacidade de se colocar no lugar do outro permitiu uma colaboração mais eficaz e uma abordagem mais sensível às necessidades de cada membro da equipe. Ao cultivar a empatia, pude me adaptar e contribuir de maneira mais significativa para as entregas do projeto, fortalecendo o trabalho em equipe e alcançando resultados mais positivos.
+Gestão do Tempo: Demonstrar a capacidade de gerenciar tarefas e projetos de forma eficiente, garantindo que os prazos sejam cumpridos, utilizar o gráfico de burndown para monitorar o progresso das tarefas e manter um controle rigoroso dos prazos estipulados para o projeto.
+
 
 </div>
 

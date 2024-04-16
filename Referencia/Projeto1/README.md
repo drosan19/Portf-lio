@@ -63,12 +63,10 @@
 ## Soft Skills
 <div align="justify">
 
-Controle Emocional: O controle emocional durante a execução das tarefas foi fundamental para manter o foco, a clareza mental e a eficiência. Ao lidar com situações desafiadoras, como prazos apertados ou demandas intensas, a capacidade de controlar as emoções evita decisões impulsivas e promove uma abordagem mais racional e estratégica. Isso permite uma execução mais precisa das tarefas, minimizando erros e garantindo resultados satisfatórios, mesmo em condições adversas.
+Trabalho em Equipe: A colaboração foi essencial para atingir objetivos complexos da disciplina, aprendemos que trabalhar em conjunto potencializa nossas habilidades individuais e cria um ambiente de crescimento coletivo. Onde busquei conhecimento em eletrônica e programação em blocos com a ajuda de colegas e professores, exercitando a empatia e o compartilhamento de conhecimento, onde integrantes com maior domínio do assunto compartilhavam seu conhecimento com a equipe e ajudava outros membros em dificuldade. 
 
-Proatividade: No projeto foi a peça-chave onde tivemos que desenvolver, eficiência, inovação, e buscando por soluções criativas e eficazes. 
-A proatividade em grupo de trabalho é essencial para impulsionar a produtividade e alcançar metas com eficiência.
+Proatividade: Foi fundamental no projeto, exigindo eficiência, inovação fui atrás dos materiais para o protótipo, visitando lojas de eletrônicos, pesquisando componentes e montando os circuitos. Cada membro da equipe buscou a melhor solução para os desafios apresentados.
 
-Trabalho em Equipe: A necessidade de trabalho em equipe foi fundamental para alcançar objetivos complexos e diversos da disciplina. Aprendemos que a colaboração entre os integrantes do grupo não apenas potencializa nossas habilidades individuais, mas também promove um ambiente de crescimento e realização coletiva.
 
 </div>
 
