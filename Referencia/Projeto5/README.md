@@ -6,7 +6,7 @@
  </div>
 
 ## Desafio e Solução 2022-2
-<div style="text-align: justify;">
+<div align="justify">
 
 <b>Desafio:</b> conduzido a partir da necessidade, da empresa parceira, de uma melhoria de um sistema de vendas de imóveis, onde foi identificado, como forma de melhoria contínua, a oportunidade de anunciar veículos
 
@@ -57,7 +57,7 @@ Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 |   GitHub    | Utilizo com autonomia |
 
 ## Soft Skills
-<div style="text-align: justify;">
+<div align="justify">
 
 Trabalho em equipe - Para a divisão de tarefas que sejam realizadas e entregues no prazo.
 Devido a demanda de atividades foi necessário em alguns momentos o pair programming, para que se pudesse obter um ganho na produtividade em tarefas que levariam um maior tempo de execução.

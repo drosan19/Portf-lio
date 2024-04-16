@@ -2,20 +2,17 @@
 
 <div align=center>
  <h3></h3>
-  <img src="https://github.com/drosan19/Portfolio/assets/130381620/9ae0707a-a8b2-4fdb-b1d6-9ff8f62256e4" width=500 alt="" />
+   <img src="https://github.com/drosan19/Portfolio/assets/130381620/9ae0707a-a8b2-4fdb-b1d6-9ff8f62256e4"    width=500 alt="" />
  </div>
 
 ## Desafio e Solução 2022-1
-<div style="text-align: justify;">
+<div align="justify">
 
 <b>Desafio:</b> Sistema de previsão de quebra de sistema web 
 
 <b>Como solução:</b> O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições de atuais de uso do sistema. Visando o momento da inatividade do sistema web.
 
 </div>
-
-
-
 
 
 ## Parceiro Acadêmico
@@ -67,7 +64,7 @@ Nosso parceiro acadêmico.</a><br>
 |   GitHub    |  Utilizo com autonomia |
 
 ## Soft Skills
-<div style="text-align: justify;">
+<div align="justify">
 
 Proatividade:
 

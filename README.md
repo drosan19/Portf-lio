@@ -17,7 +17,7 @@ Por motivos pessoais e profissionais, decidi realizar uma transição de carreir
 
 
 ## Experiência:
-<div style="text-align: justify;">
+<div align="justify">
 
 * Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias.<br> 
 

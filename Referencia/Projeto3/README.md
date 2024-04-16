@@ -3,10 +3,10 @@
 <div align=center>
  <h3></h3>
   <img src="https://github.com/drosan19/Portfolio/assets/130381620/91032694-2c21-43ea-97d9-c621e613540b" width=400 alt="" />
- </div>
+</div>
 
 ## Desafio e Solução 2020-2
-<div style="text-align: justify;">
+<div align="justify">
 
 <b> Desafio:</b> Conduzido a partir da necessidade, da empresa parceira, de Extrair, Transformar e Carregar dados de arquivos do tipo [Shapefile](https://pt.wikipedia.org/wiki/Shapefile) para sua base de dados e o caminho inverso, gerar arquivos Shapefile de dados registrador em sua base de dados, devida limitação de licenças da solução que utilizara.
 
@@ -68,7 +68,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 |        GitHub        | Utilizo com autonomia |
 
 ## Soft Skills
-<div style="text-align: justify;">
+<div align="justify">
 
 Empatia:
 

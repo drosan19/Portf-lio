@@ -4,11 +4,11 @@
  <h3></h3>
   <img src="https://github.com/drosan19/Portf-lio/assets/130381620/4e2811c5-ae05-48a2-b80d-42892d309bca" width=250 alt="" />
  
-  </div>
+</div>
 
 ## Desafio 01 e Solução 2019-2
 
-<div style="text-align: justify;">
+<div align="justify">
 
 <b>Desafio:</b> Desenvolver um sistema de automação para alimentação de cães de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em um protótipo que interage com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. .<br>
 
@@ -61,7 +61,7 @@
 | Conexão eletrônica com o microcontrolador    | Faço com ajuda |
 
 ## Soft Skills
-<div style="text-align: justify;">
+<div align="justify">
 
 Controle Emocional: O controle emocional durante a execução das tarefas foi fundamental para manter o foco, a clareza mental e a eficiência. Ao lidar com situações desafiadoras, como prazos apertados ou demandas intensas, a capacidade de controlar as emoções evita decisões impulsivas e promove uma abordagem mais racional e estratégica. Isso permite uma execução mais precisa das tarefas, minimizando erros e garantindo resultados satisfatórios, mesmo em condições adversas.
 
