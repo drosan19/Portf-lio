@@ -9,15 +9,19 @@
 <div align="justify">    
 Meu nome é Sandro de Araújo. Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC) - Prof. Jessen Vidal. 
  <br><br>
-Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Escola "LUIZ SIMON". Durante o curso onde adquiri conhecimentos abrangentes que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico entre outras disciplinas essenciais da área mecânica. Logo após concluir o curso, ingressei na empresa Status Usinagem atuando como Operador de máquina CNC, nessa função, participei da produção de diversas peças para aviação, contribuindo para projetos da Embraer em São José dos Campos. Paralelamente, decidi ampliar minha formação e ingressei no curso de ferramentaria no SENAI "Santos Dumont" em São José dos Campos.
+Iniciei minha formação acadêmica na área de mecânica no SENAI Jacareí, Escola "LUIZ SIMON". Durante o curso, adquiri conhecimentos abrangentes, que incluíam usinagem, pneumática, hidráulica, solda, desenho mecânico, entre outras disciplinas.
+
+Logo após concluir o curso, ingressei na empresa Status Usinagem, atuando como Operador de fresa CNC, onde tive meu primeiro contato com programação (Controle Numérico Computadorizado), controle de máquinas ferramentas programáveis por computador. Nessa função, participei da produção de peças para aviação.
+
  <br><br>
-Por motivos pessoais e profissionais, decidi realizar uma transição de carreira para a área de tecnologia. Este movimento foi impulsionado pela alta demanda por profissionais qualificados no setor, que oferece oportunidades de carreira promissoras, remuneração atrativa e flexibilidade no trabalho. Além disso, o empreendedorismo se apresenta como uma opção viável dentro deste cenário. O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo mercado de trabalho, às perspectivas de carreira favoráveis, ao elevado índice de empregabilidade e à valorização profissional, me levou a escolher a TI como minha nova área de atuação e busca conhecimento, optar por tecnologia como foco de minha carreira me proporciona a chance de atuar em um campo dinâmico e inovador.
+Com base no conhecimento adquirido em comando numérico computadorizado, decidi expandir meus conhecimentos em programação e fazer uma transição de carreira para a área de tecnologia TI. Esse movimento foi impulsionado pela alta demanda por profissionais qualificados nesse setor, que oferece oportunidades de carreira promissoras, remuneração atrativa e flexibilidade no trabalho. Além disso, o empreendedorismo se mostra como uma opção viável nesse cenário.
+O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo mercado de trabalho e às perspectivas favoráveis de carreira, assim como o elevado índice de empregabilidade, levou-me a escolher a TI como minha nova área de atuação e busca de conhecimento. Optar por tecnologia como foco de minha carreira me proporciona a chance de atuar em um campo dinâmico e inovador.
 </div>
 
 ## Experiência:
 <div align="justify">
 
-* Atualmente trabalho na empresa Tenda Atacadista, atuando como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribui com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuando em situações necessárias. Estou em processo de transição para a área de Tecnologia da Informação (TI), buscando oportunidades de crescimento profissional e desenvolvimento na minha carreira.<br> 
+* Atualmente trabalho na empresa Tenda Atacadista, como auxilair de manutenção, atuando nas manutenções preventivas e corretivas nas tubulações e nos equipamentos mecânicos. Contribuindo com a conservação do patrimônio e da segurança operacional da filial, acompanha as inspeções e vistorias periódicas, monitora os sistemas de proteção e emergência e atuo em situações necessárias. Estou em processo de transição para a área de Tecnologia da Informação (TI), buscando oportunidades de crescimento profissional e desenvolvimento na carreira.<br> 
 
 </div>
 
