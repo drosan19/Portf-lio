@@ -1,6 +1,6 @@
 # Portfólio 
 <div align=center>
-   <img src="https://github.com/cassia2023/Projeto/assets/151237166/5b335514-3b96-4703-8c43-4255426ec089" width=200 alt="" />
+   <img src="https://github.com/drosan19/Portfolio/assets/130381620/1384f07a-93bd-4bbb-8f26-b5eefef1b6ce" width=200 alt="" />
    <h2> Sandro Araújo </h2>
 </div>
 
