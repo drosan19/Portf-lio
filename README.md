@@ -1,6 +1,6 @@
 # Portfólio 
 <div align=center>
-   <img src="https://github.com/drosan19/Portfolio/assets/130381620/6136636c-1ef3-4bb0-973d-137d08d8c332" width=200 alt="" />
+   <img src="https://github.com/drosan19/Portfolio/assets/130381620/6136636c-1ef3-4bb0-973d-137d08d8c332" width=300 alt="" />
    <h2> Sandro Araújo </h2>
 </div>
 
