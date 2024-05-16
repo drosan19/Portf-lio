@@ -16,7 +16,7 @@ O crescente desenvolvimento da Tecnologia da Informação, aliado ao amplo merca
 ## Experiência:
 <div align="justify">
 
-* Atualmente trabalho na empresa Tenda Atacadista, como auxilair de manutenção, atuando nas manutenções preventivas e corretivas. Contribuindo com a conservação do patrimônio e da segurança operacional da filial, acompanho as inspeções e vistorias periódicas. Estou em processo de transição para a área de Tecnologia da Informação (TI), buscando oportunidades de crescimento profissional e desenvolvimento na carreira.<br> 
+* Atualmente trabalho na empresa Tenda Atacadista, como auxilar de manutenção, atuando na manutenções preventiva e corretiva, acompanho as inspeções e vistorias periódicas. Estou em processo de transição para a área de Tecnologia da Informação (TI), buscando oportunidades de crescimento profissional e desenvolvimento na carreira.<br> 
 
 </div>
 
