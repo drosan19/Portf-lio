@@ -18,7 +18,7 @@
 ## Parceiro Acadêmico
 Nosso parceiro acadêmico.</a><br>
 
-[Visualizar GitHub do Projeto]()
+[Visualizar GitHub do Projeto](https://github.com/Oraculum-Fatec/oraculum-doc)
 
 ## Tecnologias Utilizadas
 
