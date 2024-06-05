@@ -76,9 +76,9 @@
 ## Soft Skills <br>
 <div align="justify">
 
-Pensamento Analítico e Resolução de Desafios Técnicos: Implementar funcionalidades E a integração com o servidor exigiu pensamento analítico e habilidade para superar desafios técnicos.
+Diante da necessidade de fazer uma modelagem de projeto fui buscar conhecimentos nas ferramentas de modelagem e utilizamos a do Astah que permitem a visualização de ideias e projetos de software. Criando rapidamente, diagramas de fluxo de dados, fluxogramas, mapas mentais no software de modelação.
 
-Enfrentamos desafios na implementação do PowerBI e Python, Onde busquei conhecimento em PowerBI, através de pesquisa na internet e com professores, para encontrar a melhor resolução para o desafio, exigindo paciência e resiliência para identificar e resolver os problemas. Contamos com a colaboração de toda a equipe para análise de ideias e busca da melhor solução.
+Uma das dificuldades em python foi gerenciar as dependências entre bibliotecas. Onde buscamos a utilização de ferramentas como o Pandas, Matplotlib, para facilitar o gerenciamento de dependências, permitindo a criação de ambientes para projeto.
 
 
 </div>
